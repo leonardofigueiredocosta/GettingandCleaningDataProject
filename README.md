@@ -1,6 +1,6 @@
 # GettingandCleaningDataProject
-Getting and Cleaning Data Project Course Project<br>
-Script project:<br>
+Getting and Cleaning Data Project Course Project<br><br>
+Script project [run_analysis.R]:<br>
 1. Merges the training and the test sets to create one data set.<br>
 2. Extracts only the measurements on the mean and standard deviation for each measurement.<br>
 3. Uses descriptive activity names to name the activities in the data set<br>
